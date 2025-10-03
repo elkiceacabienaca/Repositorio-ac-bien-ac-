@@ -1,6 +1,6 @@
 # Mensaje numero 1
 
-## Mensaje 2 de forma mas grande
+## Mensaje 2 de forma mas chica ff
 
 - yo
 - tambien yo
