@@ -13,5 +13,5 @@
 
 ## un codigo aca bien aca de psint
 ```pseint
-    imprimir "hola mundo"
+    imprimir "hola mundo gg"
 ```
